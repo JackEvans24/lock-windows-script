@@ -6,6 +6,4 @@ Running `Set.ps1` on a PC will set a scheduled task that will run at about the s
 
 The task runs `Windows_Lock.ps1` which, as you can imagine, locks the current PC.
 
-Perfect for fucking with your co-workers if you can access their machines whilst they're away (for legal reasons I don't condone this).
-
-Credit to Pavel for helping in this idea's conception.
+Perfect for messing with your peers if you can access their machines whilst they're away (for legal reasons I don't condone this).
